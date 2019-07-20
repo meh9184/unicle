@@ -1,0 +1,12 @@
+<chart caption="Top 10 : Hot Newswid" baseFontSize='12' baseFont='굴림' yaxisname="빈도수" plotgradientcolor="" bgcolor="FFFFFF" showplotborder="0" divlinecolor="CCCCCC" showvalues="1" showcanvasborder="0" canvasbordercolor="CCCCCC" canvasborderthickness="1" showyaxisvalues="0" showlegend="1" showshadow="0" labelsepchar=": " basefontcolor="000000" labeldisplay="AUTO" numberscalevalue="1000,1000,1000" numberscaleunit="K,M,B" palettecolors="#008ee4,#9b59b6,#6baa01,#e44a00,#f8bd19,#d35400,#bdc3c7,#95a5a6,#34495e,#1abc9c" showborder="0">
+<set label="박근혜" value="35" tooltext="연관 단어: {br}정치{br}Africa{br}Asia{br}Americas" />
+<set label="김정일" value="30" tooltext="연관 단어: {br}India{br}UK{br}Pakistan{br}Australia" />
+<set label="문재인" value="22" tooltext="연관 단어: {br}Asia{br}Europe{br}Africa{br}Australia" />
+<set label="정치" value="10" color="e44a00" tooltext="연관 단어: {br}Europe{br}Americas{br}Asia" />
+<set label="대통령" value="9" tooltext="Popular in: {br}Asia{br}Europe{br}Americas{br}Australia" />
+<set label="이명박" value="9" tooltext="Popular in: {br}Asia{br}Europe{br}Africa{br}Americas" />
+<set label="김흥도" value="5" tooltext="Popular in: {br}US{br}Japan{br}Cuba{br}Dominican Republic" />
+<set label="마약밀수" value="4" tooltext="Popular in: {br}US{br}Canada{br}Europe" />
+<set label="외교파괴" value="4" tooltext="Popular in: {br}US{br}Canada" />
+<set label="비밀리" value="39" tooltext="Popular in:{br}US" />
+</chart>

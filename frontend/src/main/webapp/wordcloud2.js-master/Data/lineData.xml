@@ -1,0 +1,108 @@
+
+<chart caption="연관단어 추이"  baseFontSize='12' baseFont='굴림' subcaption="(5/23/2015 - 5/29/2015)" linethickness="1" showvalues="0" formatnumberscale="0" anchorradius="2" divlinecolor="666666" divlinealpha="30" divlineisdashed="1" labelstep="2" bgcolor="FFFFFF" showalternatehgridcolor="0" labelpadding="10" canvasborderthickness="1" legendiconscale="1.5" legendshadow="0" legendborderalpha="0" legendposition="right" canvasborderalpha="50" numvdivlines="5" vdivlinealpha="20" showborder="0">
+<categories>
+<category label="5/23/2015" />
+<category label="5/24/2015" />
+<category label="5/25/2015" />
+<category label="5/26/2015" />
+<category label="5/27/2015" />
+<category label="5/28/2015" />
+<category label="5/29/2015" />
+</categories>
+<dataset seriesname="존잘" color="1D8BD1" anchorbordercolor="1D8BD1" anchorbgcolor="1D8BD1">
+<set value="1327" />
+<set value="1826" />
+<set value="1699" />
+<set value="1511" />
+<set value="1904" />
+<set value="1957" />
+<set value="1296" />
+</dataset>
+<dataset seriesname="개색씨" color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C">
+<set value="2042" />
+<set value="3210" />
+<set value="2994" />
+<set value="3115" />
+<set value="2844" />
+<set value="3576" />
+<set value="1862" />
+</dataset>
+<dataset seriesname="멋쟁이" color="2AD62A" anchorbordercolor="2AD62A" anchorbgcolor="2AD62A">
+<set value="850" />
+<set value="1010" />
+<set value="1116" />
+<set value="1234" />
+<set value="1210" />
+<set value="1054" />
+<set value="802" />
+</dataset>
+<dataset seriesname="훈남" color="DBDC25" anchorbordercolor="DBDC25" anchorbgcolor="DBDC25">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈남2" color="FF33FF" anchorbordercolor="FF33FF" anchorbgcolor="FF33FF">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈남3" color="9900CC" anchorbordercolor="9900CC" anchorbgcolor="9900CC">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈남4" color="00FFFF" anchorbordercolor="00FFFF" anchorbgcolor="00FFFF">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈남5" color="FF6600" anchorbordercolor="FF6600" anchorbgcolor="FF6600">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈남6" color="3399FF" anchorbordercolor="3399FF" anchorbgcolor="3399FF">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+
+<dataset seriesname="훈7" color="000000" anchorbordercolor="000000" anchorbgcolor="000000">
+<set value="541" />
+<set value="781" />
+<set value="920" />
+<set value="754" />
+<set value="840" />
+<set value="893" />
+<set value="451" />
+</dataset>
+</chart>

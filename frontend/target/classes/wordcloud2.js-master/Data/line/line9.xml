@@ -1,0 +1,113 @@
+
+<chart caption="연관단어 추이"  baseFontSize='12' baseFont='굴림' subcaption="(5/23/2015 - 5/29/2015)" linethickness="1" showvalues="0" formatnumberscale="0" anchorradius="2" divlinecolor="666666" divlinealpha="30" divlineisdashed="1" labelstep="2" bgcolor="FFFFFF" showalternatehgridcolor="0" labelpadding="10" canvasborderthickness="1" legendiconscale="1.5" legendshadow="0" legendborderalpha="0" legendposition="right" canvasborderalpha="50" numvdivlines="5" vdivlinealpha="20" showborder="0">
+<categories>
+<category label="5/23/2015" />
+<category label="5/24/2015" />
+<category label="5/25/2015" />
+<category label="5/26/2015" />
+<category label="5/27/2015" />
+<category label="5/28/2015" />
+<category label="5/29/2015" />
+</categories>
+
+<dataset seriesname="대표" color="1D8BD1" anchorbordercolor="1D8BD1" anchorbgcolor="1D8BD1">
+<set value="329" />
+<set value="325" />
+<set value="326" />
+<set value="325" />
+<set value="324" />
+<set value="326" />
+<set value="329" />
+</dataset>
+
+<dataset seriesname="노건호" color="2AD62A" anchorbordercolor="2AD62A" anchorbgcolor="2AD62A">
+<set value="279" />
+<set value="274" />
+<set value="273" />
+<set value="272" />
+<set value="278" />
+<set value="278" />
+<set value="276" />
+</dataset>
+
+<dataset seriesname="추도식" color="DBDC25" anchorbordercolor="DBDC25" anchorbgcolor="DBDC25">
+<set value="216" />
+<set value="211" />
+<set value="217" />
+<set value="216" />
+<set value="214" />
+<set value="217" />
+<set value="212" />
+</dataset>
+
+<dataset seriesname="반성" color="FF33FF" anchorbordercolor="FF33FF" anchorbgcolor="FF33FF">
+<set value="163" />
+<set value="166" />
+<set value="161" />
+<set value="169" />
+<set value="164" />
+<set value="168" />
+<set value="161" />
+</dataset>
+
+<dataset seriesname="일" color="FF6600" anchorbordercolor="FF6600" anchorbgcolor="FF6600">
+<set value="152" />
+<set value="158" />
+<set value="157" />
+<set value="158" />
+<set value="155" />
+<set value="156" />
+<set value="154" />
+</dataset>
+
+<dataset seriesname="묘역" color="3399FF" anchorbordercolor="3399FF" anchorbgcolor="3399FF">
+<set value="146" />
+<set value="141" />
+<set value="142" />
+<set value="143" />
+<set value="142" />
+<set value="145" />
+<set value="148" />
+</dataset>
+
+<dataset seriesname="대권" color="000000" anchorbordercolor="000000" anchorbgcolor="000000">
+<set value="135" />
+<set value="214" />
+<set value="216" />
+<set value="212" />
+<set value="213" />
+<set value="212" />
+<set value="212" />
+</dataset>
+
+
+<dataset seriesname="비판" color="00FFFF" anchorbordercolor="00FFFF" anchorbgcolor="00FFFF">
+<set value="130" />
+<set value="146" />
+<set value="148" />
+<set value="148" />
+<set value="149" />
+<set value="150" />
+<set value="152" />
+</dataset>
+
+<dataset seriesname="새누리당" color="9900CC" anchorbordercolor="9900CC" anchorbgcolor="9900CC">
+<set value="125" />
+<set value="164" />
+<set value="161" />
+<set value="163" />
+<set value="167" />
+<set value="169" />
+<set value="171" />
+</dataset>
+
+<dataset seriesname="봉하마을" color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C">
+<set value="118" />
+<set value="113" />
+<set value="114" />
+<set value="115" />
+<set value="116" />
+<set value="117" />
+<set value="118" />
+</dataset>
+</chart>

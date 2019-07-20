@@ -1,0 +1,6 @@
+<chart 
+    caption='"일"의 긍/부정 추이' baseFontSize='12' baseFont='굴림' showValues='2' formatNumberScale='0' showBorder='3' >
+    <set label='긍정'  value='10' />
+    <set label='부정' value='2' color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C" />
+    <set label='중립' value='3' />
+</chart>

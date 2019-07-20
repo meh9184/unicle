@@ -1,0 +1,109 @@
+
+<chart caption="연관단어 추이"  baseFontSize='12' baseFont='굴림' subcaption="(5/23/2015 - 5/29/2015)" linethickness="1" showvalues="0" formatnumberscale="0" anchorradius="2" divlinecolor="666666" divlinealpha="30" divlineisdashed="1" labelstep="2" bgcolor="FFFFFF" showalternatehgridcolor="0" labelpadding="10" canvasborderthickness="1" legendiconscale="1.5" legendshadow="0" legendborderalpha="0" legendposition="right" canvasborderalpha="50" numvdivlines="5" vdivlinealpha="20" showborder="0">
+<categories>
+<category label="5/23/2015" />
+<category label="5/24/2015" />
+<category label="5/25/2015" />
+<category label="5/26/2015" />
+<category label="5/27/2015" />
+<category label="5/28/2015" />
+<category label="5/29/2015" />
+</categories>
+<dataset seriesname="교육감" color="1D8BD1" anchorbordercolor="1D8BD1" anchorbgcolor="1D8BD1">
+<set value="506" />
+<set value="522" />
+<set value="525" />
+<set value="526" />
+<set value="528" />
+<set value="522" />
+<set value="523" />
+</dataset>
+<dataset seriesname="수락" color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C">
+<set value="481" />
+<set value="481" />
+<set value="482" />
+<set value="487" />
+<set value="482" />
+<set value="484" />
+<set value="485" />
+</dataset>
+<dataset seriesname="혁신" color="2AD62A" anchorbordercolor="2AD62A" anchorbgcolor="2AD62A">
+<set value="417" />
+<set value="424" />
+<set value="423" />
+<set value="422" />
+<set value="428" />
+<set value="428" />
+<set value="426" />
+</dataset>
+<dataset seriesname="예결" color="DBDC25" anchorbordercolor="DBDC25" anchorbgcolor="DBDC25">
+<set value="275" />
+<set value="261" />
+<set value="267" />
+<set value="266" />
+<set value="264" />
+<set value="267" />
+<set value="262" />
+</dataset>
+
+<dataset seriesname="기구" color="FF33FF" anchorbordercolor="FF33FF" anchorbgcolor="FF33FF">
+<set value="207" />
+<set value="207" />
+<set value="206" />
+<set value="202" />
+<set value="203" />
+<set value="202" />
+<set value="201" />
+</dataset>
+
+<dataset seriesname="제안" color="FF6600" anchorbordercolor="FF6600" anchorbgcolor="FF6600">
+<set value="180" />
+<set value="181" />
+<set value="182" />
+<set value="186" />
+<set value="184" />
+<set value="182" />
+<set value="184" />
+</dataset>
+
+<dataset seriesname="대표" color="3399FF" anchorbordercolor="3399FF" anchorbgcolor="3399FF">
+<set value="160" />
+<set value="151" />
+<set value="152" />
+<set value="153" />
+<set value="152" />
+<set value="155" />
+<set value="158" />
+</dataset>
+
+<dataset seriesname="오찬" color="000000" anchorbordercolor="000000" anchorbgcolor="000000">
+<set value="156" />
+<set value="152" />
+<set value="156" />
+<set value="151" />
+<set value="153" />
+<set value="155" />
+<set value="158" />
+</dataset>
+
+
+<dataset seriesname="의원" color="00FFFF" anchorbordercolor="00FFFF" anchorbgcolor="00FFFF">
+<set value="140" />
+<set value="146" />
+<set value="148" />
+<set value="148" />
+<set value="149" />
+<set value="150" />
+<set value="152" />
+</dataset>
+
+<dataset seriesname="김상곤" color="9900CC" anchorbordercolor="9900CC" anchorbgcolor="9900CC">
+<set value="138" />
+<set value="144" />
+<set value="151" />
+<set value="153" />
+<set value="157" />
+<set value="169" />
+<set value="171" />
+</dataset>
+</chart>

@@ -1,0 +1,108 @@
+
+<chart caption="연관단어 추이"  baseFontSize='12' baseFont='굴림' subcaption="(5/23/2015 - 5/29/2015)" linethickness="1" showvalues="0" formatnumberscale="0" anchorradius="2" divlinecolor="666666" divlinealpha="30" divlineisdashed="1" labelstep="2" bgcolor="FFFFFF" showalternatehgridcolor="0" labelpadding="10" canvasborderthickness="1" legendiconscale="1.5" legendshadow="0" legendborderalpha="0" legendposition="right" canvasborderalpha="50" numvdivlines="5" vdivlinealpha="20" showborder="0">
+<categories>
+<category label="5/23/2015" />
+<category label="5/24/2015" />
+<category label="5/25/2015" />
+<category label="5/26/2015" />
+<category label="5/27/2015" />
+<category label="5/28/2015" />
+<category label="5/29/2015" />
+</categories>
+<dataset seriesname="개성" color="1D8BD1" anchorbordercolor="1D8BD1" anchorbgcolor="1D8BD1">
+<set value="524" />
+<set value="520" />
+<set value="513" />
+<set value="517" />
+<set value="512" />
+<set value="527" />
+<set value="521" />
+</dataset>
+<dataset seriesname="임금" color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C">
+<set value="586" />
+<set value="582" />
+<set value="589" />
+<set value="565" />
+<set value="573" />
+<set value="578" />
+<set value="571" />
+</dataset>
+<dataset seriesname="북측" color="2AD62A" anchorbordercolor="2AD62A" anchorbgcolor="2AD62A">
+<set value="436" />
+<set value="429" />
+<set value="430" />
+<set value="440" />
+<set value="442" />
+<set value="437" />
+<set value="436" />
+</dataset>
+<dataset seriesname="지급" color="DBDC25" anchorbordercolor="DBDC25" anchorbgcolor="DBDC25">
+<set value="343" />
+<set value="337" />
+<set value="336" />
+<set value="341" />
+<set value="338" />
+<set value="339" />
+<set value="334" />
+</dataset>
+
+<dataset seriesname="최저임금" color="FF33FF" anchorbordercolor="FF33FF" anchorbgcolor="FF33FF">
+<set value="274" />
+<set value="271" />
+<set value="274" />
+<set value="276" />
+<set value="267" />
+<set value="262" />
+<set value="264" />
+</dataset>
+
+<dataset seriesname="협의" color="9900CC" anchorbordercolor="9900CC" anchorbgcolor="9900CC">
+<set value="215" />
+<set value="217" />
+<set value="211" />
+<set value="213" />
+<set value="210" />
+<set value="214" />
+<set value="212" />
+</dataset>
+
+<dataset seriesname="협회" color="00FFFF" anchorbordercolor="00FFFF" anchorbgcolor="00FFFF">
+<set value="202" />
+<set value="199" />
+<set value="196" />
+<set value="197" />
+<set value="198" />
+<set value="201" />
+<set value="204" />
+</dataset>
+
+<dataset seriesname="기업" color="FF6600" anchorbordercolor="FF6600" anchorbgcolor="FF6600">
+<set value="159" />
+<set value="158" />
+<set value="153" />
+<set value="160" />
+<set value="157" />
+<set value="154" />
+<set value="159" />
+</dataset>
+
+<dataset seriesname="남북" color="3399FF" anchorbordercolor="3399FF" anchorbgcolor="3399FF">
+<set value="154" />
+<set value="152" />
+<set value="153" />
+<set value="154" />
+<set value="159" />
+<set value="157" />
+<set value="153" />
+</dataset>
+
+<dataset seriesname="문안" color="000000" anchorbordercolor="000000" anchorbgcolor="000000">
+<set value="154" />
+<set value="150" />
+<set value="156" />
+<set value="157" />
+<set value="159" />
+<set value="152" />
+<set value="155" />
+</dataset>
+</chart>

@@ -1,0 +1,12 @@
+<chart caption="Top 10 : Hot Newswid" baseFontSize='12' baseFont='굴림' yaxisname="빈도수" plotgradientcolor="" bgcolor="FFFFFF" showplotborder="0" divlinecolor="CCCCCC" showvalues="1" showcanvasborder="0" canvasbordercolor="CCCCCC" canvasborderthickness="1" showyaxisvalues="0" showlegend="1" showshadow="0" labelsepchar=": " basefontcolor="000000" labeldisplay="AUTO" numberscalevalue="1000,1000,1000" numberscaleunit="K,M,B" palettecolors="#008ee4,#9b59b6,#6baa01,#e44a00,#f8bd19,#d35400,#bdc3c7,#FE2EF7,#34495e,#1abc9c" showborder="0">
+<set label="황교안" value="59" tooltext="연관 단어: {br}후보자{br}총리{br}총문회{br}개혁{br}장관" />
+<set label="총리" value="50" tooltext="연관 단어: {br}청문회{br}후보자{br}장관{br}내정{br}인사" />
+<set label="일" value="36" tooltext="연관 단어: {br}회담{br}임금{br}공단{br}양국{br}북한" />
+<set label="북한" value="32" color="e44a00" tooltext="연관 단어: {br}공단{br}개성{br}조평통{br}남북{br}대북제재" />
+<set label="혁신" value="26" tooltext="연관 단어: {br}교육감{br}위원장{br}수락{br}기구{br}대표" />
+<set label="야당" value="22" tooltext="연관 단어: {br}혁신{br}교육감{br}의원{br}후보자{br}회전" />
+<set label="박근혜" value="22" tooltext="연관 단어: {br}후보자{br}총리{br}개혁{br}출신{br}청와대" />
+<set label="김상곤" value="22" tooltext="연관 단어: {br}혁신{br}교육감{br}위원장{br}수락{br}기구" />
+<set label="김무성" value="22" tooltext="연관 단어: {br}대표{br}노건호{br}추도식{br}반성{br}일" />
+<set label="위원장" value="17" tooltext="연관 단어:{br}교육감{br}수락{br}혁신{br}예결{br}기구" />
+</chart>

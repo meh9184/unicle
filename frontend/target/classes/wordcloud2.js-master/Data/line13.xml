@@ -1,0 +1,108 @@
+
+<chart caption="연관단어 추이"  baseFontSize='12' baseFont='굴림' subcaption="(5/23/2015 - 5/29/2015)" linethickness="1" showvalues="0" formatnumberscale="0" anchorradius="2" divlinecolor="666666" divlinealpha="30" divlineisdashed="1" labelstep="2" bgcolor="FFFFFF" showalternatehgridcolor="0" labelpadding="10" canvasborderthickness="1" legendiconscale="1.5" legendshadow="0" legendborderalpha="0" legendposition="right" canvasborderalpha="50" numvdivlines="5" vdivlinealpha="20" showborder="0">
+<categories>
+<category label="5/23/2015" />
+<category label="5/24/2015" />
+<category label="5/25/2015" />
+<category label="5/26/2015" />
+<category label="5/27/2015" />
+<category label="5/28/2015" />
+<category label="5/29/2015" />
+</categories>
+<dataset seriesname="공무원연금" color="1D8BD1" anchorbordercolor="1D8BD1" anchorbgcolor="1D8BD1">
+<set value="181" />
+<set value="178" />
+<set value="180" />
+<set value="177" />
+<set value="176" />
+<set value="172" />
+<set value="166" />
+</dataset>
+<dataset seriesname="청와대" color="F1683C" anchorbordercolor="F1683C" anchorbgcolor="F1683C">
+<set value="136" />
+<set value="135" />
+<set value="139" />
+<set value="137" />
+<set value="133" />
+<set value="133" />
+<set value="134" />
+</dataset>
+<dataset seriesname="개혁안" color="2AD62A" anchorbordercolor="2AD62A" anchorbgcolor="2AD62A">
+<set value="108" />
+<set value="107" />
+<set value="110" />
+<set value="105" />
+<set value="109" />
+<set value="103" />
+<set value="105" />
+</dataset>
+<dataset seriesname="합의" color="DBDC25" anchorbordercolor="DBDC25" anchorbgcolor="DBDC25">
+<set value="99" />
+<set value="100" />
+<set value="96" />
+<set value="92" />
+<set value="97" />
+<set value="96" />
+<set value="98" />
+</dataset>
+
+<dataset seriesname="총리" color="FF33FF" anchorbordercolor="FF33FF" anchorbgcolor="FF33FF">
+<set value="97" />
+<set value="91" />
+<set value="95" />
+<set value="98" />
+<set value="96" />
+<set value="96" />
+<set value="94" />
+</dataset>
+
+<dataset seriesname="국민연금" color="9900CC" anchorbordercolor="9900CC" anchorbgcolor="9900CC">
+<set value="97" />
+<set value="99" />
+<set value="98" />
+<set value="92" />
+<set value="89" />
+<set value="95" />
+<set value="87" />
+</dataset>
+
+<dataset seriesname="부총리" color="00FFFF" anchorbordercolor="00FFFF" anchorbgcolor="00FFFF">
+<set value="92" />
+<set value="88" />
+<set value="86" />
+<set value="89" />
+<set value="92" />
+<set value="93" />
+<set value="91" />
+</dataset>
+
+<dataset seriesname="처리" color="FF6600" anchorbordercolor="FF6600" anchorbgcolor="FF6600">
+<set value="84" />
+<set value="87" />
+<set value="85" />
+<set value="86" />
+<set value="87" />
+<set value="82" />
+<set value="83" />
+</dataset>
+
+<dataset seriesname="구조개혁" color="3399FF" anchorbordercolor="3399FF" anchorbgcolor="3399FF">
+<set value="74" />
+<set value="75" />
+<set value="76" />
+<set value="71" />
+<set value="68" />
+<set value="70" />
+<set value="72" />
+</dataset>
+
+<dataset seriesname="수석" color="000000" anchorbordercolor="000000" anchorbgcolor="000000">
+<set value="73" />
+<set value="72" />
+<set value="75" />
+<set value="72" />
+<set value="74" />
+<set value="74" />
+<set value="75" />
+</dataset>
+</chart>
